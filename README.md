@@ -86,7 +86,7 @@ Para os casos de uso listados neste documento, deve-se olhar as telas originais 
 
 ## 7. Modelo Estrutural
 
-![Modelo ER](https://drive.google.com/file/d/1OtJKO6E-M9FaMOMYz3wMzsSh9r1O5I03/view?usp=sharing)
+![Modelo ER](./Documentos%20Auxiliares/modelo_ER.png)
 
 ### MODELO DE BANCO DE DADOS/PROJETO
 
